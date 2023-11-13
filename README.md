@@ -25,7 +25,7 @@ The _notebook_ folder contains a series of Jupyter Notebooks. The _data_ folder 
   <li>same as Doing things with text 1 and 2 but for multiple text files</li>
 </ul>
 
-Doing things with text 3b - Preprocessing and word counts on multiple .csv files (raw text):
+**Doing things with text 3b** - Preprocessing and word counts on multiple .csv files (raw text):
 <ul>
   <li>same as Doing things with text 1 and 2 but for one or more csv files</li>
 </ul>
@@ -54,4 +54,10 @@ Doing things with text 3b - Preprocessing and word counts on multiple .csv files
   <li>train word2vec model on dataset</li>
   <li>search most similar terms for one or more keywords</li>
   <li>plot most similar terms as clusters in a t-sne plot</li>
+</ul>
+
+## Example data
+<ul>
+  <li>screenplays for Star Wars I - VII as .txt</li>
+  <li>screenplays for a series of movies about science/scientists as .csv</li>
 </ul>
