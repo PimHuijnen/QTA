@@ -1,6 +1,6 @@
 # QTA2023
 
-This is the repository for the quantitative text analysis module of the Methods course in the research master program History at Utrecht University (see: https://www.uu.nl/en/masters/history). 
+This is the repository for the quantitative text analysis module of the Methods course in the research master program History at Utrecht University (see: https://www.uu.nl/en/masters/history). See the course manual in the folder with the same name.
 
 The _notebook_ folder contains a series of Jupyter Notebooks. The _data_ folder contains some example text files (see below). The aim of the notebooks is to provide an introduction to quantitative text analysis (text mining). The notebooks are structured as listed below. Most notebooks take .txt files as input, but can be tweaked very easily to import .csv files. Text files are ideally chronological and named for the year they represent (for example '1981.txt', '1982.txt', etc.).
 
