@@ -33,8 +33,9 @@ The _Notebooks_ folder contains a series of Jupyter Notebooks. The _Sample data_
 **Doing things with text 4** - Text analysis (for multiple .txt files, preprocessed):
 <ul>
   <li>plot word / n-gram frequency per file in a scatter plot</li>
-  <li>print collocations (log likelihood, pmi, raw frequency) of one or more keywords per file</li>
-  <li>print top n-grams per file</li>
+  <li>print and save collocations (log likelihood, pmi, raw frequency) of one or more keywords per file</li>
+  <li>print and save top n-grams per file</li>
+  <li>print and save top n-grams per file starting or ending with a given keyword</li>
 </ul>
 
 **Doing things with text 5** - tf-idf with gensim (for multiple .txt files, preprocessed):
