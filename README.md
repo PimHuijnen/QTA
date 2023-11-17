@@ -4,6 +4,8 @@ This is the repository for the 2023/24 quantitative text analysis module of the 
 
 The _Notebooks_ folder contains a series of Jupyter Notebooks. The _Sample data_ folder contains some example text files (see below). The aim of the notebooks is to provide an introduction to quantitative text analysis (text mining). The notebooks are structured as listed below. Most notebooks take .txt files as input, but can be tweaked very easily to import .csv files. Text files are ideally chronological and named for the year they represent (for example '1981.txt', '1982.txt', etc.).
 
+Most of the code is my own, or linked in the notebooks to projects I copied it from. Doing things with text 1 is based on code that [Berit Jansen](BeritJanssen.github.io) (Research Software Lab, Utrecht University) wrote. [Brecht Nijman](https://github.com/brechtfm) contributed to Doing things with text 4. Thanks to both!
+
 ## Notebooks
 
 **Doing things with text 1** - Preprocessing of a single text file (.txt): 
