@@ -24,39 +24,49 @@ Most of the code is my own, or linked in the notebooks to projects I copied it f
 
 **Doing things with text 3a** - Preprocessing and word counts on multiple text files (.txt, raw or preprocessed):
 <ul>
-  <li>same as Doing things with text 1 and 2 but for multiple text files</li>
+  <li>same as Doing things with text 1 but for multiple text files</li>
 </ul>
 
 **Doing things with text 3b** - Preprocessing and word counts on multiple .csv files (raw text):
 <ul>
-  <li>same as Doing things with text 1 and 2 but for one or more csv files</li>
+  <li>same as Doing things with text 1 but for one or more csv files</li>
 </ul>
 
-**Doing things with text 4** - Text analysis (for multiple .txt files, preprocessed):
+**Doing things with text 3c** - word counts on multiple text files (.csv):
 <ul>
-  <li>plot word / n-gram frequency per file in a scatter plot</li>
+  <li>Same as Doing things with text 2 but for multiple text files</li>
+</ul>
+
+**Doing things with text 4** - Text analysis (for multiple .txt/.csv files, preprocessed):
+<ul>
+  <li>plot and save word / n-gram frequency per file in a scatter plot</li>
+  <li>print and save most common common words with a particular beginning or ending</li>
   <li>print and save collocations (log likelihood, pmi, raw frequency) of one or more keywords per file</li>
   <li>print and save top n-grams per file</li>
   <li>print and save top n-grams per file starting or ending with a given keyword</li>
 </ul>
 
-**Doing things with text 5** - tf-idf with gensim (for multiple .txt files, preprocessed):
+**Doing things with text 5** - tf-idf with gensim (for multiple .txt/.csv files, preprocessed):
 <ul>
-  <li>plot top distinct words (tf-idf) per file in a bar chart</li>
-  <li>create heatmap for cosine similarity</li>
+  <li>plot and save top distinct words (tf-idf) per file in a bar chart</li>
+  <li>create and save heatmap for cosine similarity</li>
 </ul>
 
-**Doing things with text 6** - part-of-speech with spacy (for multiple .txt files, preprocessed):
+**Doing things with text 6** - part-of-speech with spacy (for multiple .txt.csv files, preprocessed):
 <ul>
-  <li>print most common words of a particular type (adjective, verb, (proper) noun) per file</li>
-  <li>print most common named entities per file</li>
+  <li>print and save most common words of a particular type (adjective, verb, (proper) noun) per file</li>
+  <li>print and save most common named entities per file</li>
+  <li>print and save part-of-speech collocations</li>
 </ul>
 
-**Doing things with text 7** - word embeddings with gensim's word2vec (for multiple .txt files, raw or preprocessed):
+**Doing things with text 7** - word embeddings with gensim's word2vec (for multiple .csv files, raw or preprocessed):
 <ul>
   <li>train word2vec model on dataset</li>
-  <li>search most similar terms for one or more keywords</li>
-  <li>plot most similar terms as clusters in a t-sne plot</li>
+  <li>find and save most similar terms for one or more keywords</li>
+  <li>plot and save most similar terms as clusters in a t-sne plot</li>
+  <li>plot and save most similar terms in a dendogram</li>
+  <li>plot and save most similar terms in a heatmap</li>
+  <li>plot and save most similar terms in a network</li>
 </ul>
 
 ## Sample data
